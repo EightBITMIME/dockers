@@ -4,7 +4,7 @@ Docker file to run vipermonkey (https://github.com/decalage2/ViperMonkey) from a
 
 Build
 =====
-$ docker built -t vipermonkey/latest Dockerfile .
+$ docker build -t vipermonkey/latest .
 
 Usage
 =====
